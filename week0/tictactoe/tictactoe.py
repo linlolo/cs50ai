@@ -45,7 +45,6 @@ def actions(board):
     for i in range(len(board)):
         for j in range(len(board[0])):
             if board[i][j] == EMPTY:
-                cur = board[i][j]
                 action_set.append((i, j))
     return action_set
 
