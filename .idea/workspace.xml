@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f57a3fd-d26a-4a03-9180-3ec1c255847c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/knights/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/knights/puzzle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/minesweeper/assets/fonts/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/minesweeper/assets/images/flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/minesweeper/assets/images/mine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/minesweeper/minesweeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/minesweeper/runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week0/tictactoe/tictactoe.py" beforeDir="false" afterPath="$PROJECT_DIR$/week0/tictactoe/tictactoe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/minesweeper/minesweeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/minesweeper/minesweeper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.runner">
+  <component name="RunManager" selected="Python.runner (2)">
     <configuration name="minesweeper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,18 +101,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cs50ai" />
+    <configuration name="runner (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week0/tictactoe/tictactoe" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\myste\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/minesweeper" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/minesweeper/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\myste\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week0/tictactoe/tictactoe" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week0/tictactoe/tictactoe/runner.py" />
       <option name="PARAMETERS" value="" />
@@ -148,42 +164,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tictactoe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cs50ai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week0/tictactoe/tictactoe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week0/tictactoe/tictactoe/tictactoe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.puzzle" />
       <item itemvalue="Python.runner" />
-      <item itemvalue="Python.tictactoe" />
       <item itemvalue="Python.runner (1)" />
       <item itemvalue="Python.minesweeper" />
+      <item itemvalue="Python.runner (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.runner (2)" />
         <item itemvalue="Python.runner" />
         <item itemvalue="Python.minesweeper" />
         <item itemvalue="Python.runner (1)" />
         <item itemvalue="Python.puzzle" />
-        <item itemvalue="Python.runner" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +201,7 @@
       <workItem from="1651971507126" duration="53000" />
       <workItem from="1651971564376" duration="979000" />
       <workItem from="1652092959398" duration="29749000" />
-      <workItem from="1652256326842" duration="412000" />
+      <workItem from="1652256326842" duration="2382000" />
     </task>
     <servers />
   </component>
@@ -227,11 +221,6 @@
           <line>103</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/week1/minesweeper/minesweeper.py</url>
-          <line>285</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -243,6 +232,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cs50ai$runner__1_.coverage" NAME="runner Coverage Results" MODIFIED="1652193742496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1/minesweeper" />
     <SUITE FILE_PATH="coverage/cs50ai$runner.coverage" NAME="runner Coverage Results" MODIFIED="1650819463127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week0/tictactoe/tictactoe" />
+    <SUITE FILE_PATH="coverage/cs50ai$runner__2_.coverage" NAME="runner (2) Coverage Results" MODIFIED="1652258403513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1/minesweeper" />
     <SUITE FILE_PATH="coverage/cs50ai$puzzle.coverage" NAME="puzzle Coverage Results" MODIFIED="1652096363991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1/knights" />
     <SUITE FILE_PATH="coverage/cs50ai$degrees.coverage" NAME="degrees Coverage Results" MODIFIED="1650783779987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week0/degrees/degrees" />
     <SUITE FILE_PATH="coverage/cs50ai$tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1650819273044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week0/tictactoe/tictactoe" />
